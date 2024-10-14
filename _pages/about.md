@@ -27,13 +27,13 @@ Always eager to connect with others who share similar passions or explore new op
 
 # Education
 <br>
-<img width="135" height="200" src="https://nishtha777.github.io/images/NYUCourant.jpg"/> <br>
+<img width="135" height="200" src="https://abhishekch47.github.io/images/NYUCourant.jpg"/> <br>
 <br>
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
 Fall 2024 -- May 2026<br>
 Master of Science in Computer Science<br>
 
-<img width="150" height="75" src="https://nishtha777.github.io/images/pes.png"/> <br>
+<img width="150" height="75" src="https://abhishekch47.github.io/images/pes.png"/> <br>
 <br>
 <b>PES University (Bengaluru, India)</b> <br>
 Aug 2017 -- Jul 2021<br>
