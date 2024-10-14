@@ -5,7 +5,7 @@ permalink: /work-experience/
 author_profile: true
 ---
 
-<img width="175" height="75" src="https://nishtha777.github.io/images/Flipkart-Logo.jpg"/> <br>
+<img width="175" height="75" src="https://abhishekch47.github.io/images/apple.jpg"/> <br>
 <br>
 <b>Software Engineer (Hyderabad, India) </b> <br>
 Apple Inc <br>
@@ -24,7 +24,7 @@ Jul 2021 -- Aug 2024 <br>
 
 
 
-<img width="85" height="75" src="https://nishtha777.github.io/images/Shop1O1.jpg"/> <br>
+<img width="85" height="75" src="https://abhishekch47.github.io/images/aruba.jpg"/> <br>
 <br>
 <b>Software Developer Intern (Bengaluru, India) </b> <br>
 Aruba Networks, HPE <br>
