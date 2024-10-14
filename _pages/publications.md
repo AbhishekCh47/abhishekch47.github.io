@@ -11,14 +11,28 @@ author_profile: true
 Apple Inc <br>
 Jul 2021 -- Aug 2024 <br>
 
-* **Full-Stack Platform Development**: Developed a web platform with a sunburst alert view for control plane monitoring using React, Django, and Redis, integrating Grafana dashboards to enhance real-time metrics monitoring and boost infrastructure efficiency by 75%. <br>
-* **Slack-Based Diagnostics Microservice**: Created a Golang microservice integrated with Slack, enabling users to trigger API calls via button actions, streamlining access to diagnostic data and improving operational efficiency by 33%. <br>
-* **Telemetry Dashboard Development**: Built a full-stack web application using React, Node.js, and MongoDB to provide real-time insights for change requests (CRs) and high-priority incidents, increasing operational efficiency by 40%. <br>
-* **CLI Tool Automation**: Developed a CLI tool that automated change request (CR) and ticket workflows for Apple’s Backbone, reducing processing time from 8-10 minutes to 2 minutes per CR. <br>
-* **Kubernetes Deploymen**t: Architected a scalable Kubernetes deployment using modular pods and containers, with Global Server Load Balancing (GSLB) for optimized load distribution, improving performance for over 8,000 Apple Cloud users.<br>
-* **CI/CD Pipeline Engineering**: Engineered CI/CD pipelines using Jenkins for automated Docker image creation, Artifactory publication, and Kubernetes deployment, reducing deployment time by 30% and minimizing manual errors. <br>
-* **Backbone L1 Architecture Expertise**: Managed Apple’s Backbone L1 architecture, resolving routing protocol issues and configuring Juniper MX2020 routers, with expertise in BGP, IS-IS, and routing policies, along with hands-on experience with Arista and Cisco hardware. <br>
-* **Hardware Performance Enhancement**: Resolved memory leaks and optimized Juniper devices through strategic reloads and log filtering improvements, increasing hardware performance by 25%. Additionally, managed air filter swaps and resolved FPC failures.<br>
+* **Platform Development for Control Plane Monitoring**: Developed a **full-stack web platform** with a **sunburst**
+alert view using **ancestral mapping** for node hierarchies and integrated Grafana dashboards for real-time metrics, using
+**React**, **Django**, and **Redis**. Enhanced Apple’s control plane infrastructure efficiency by 75%. <br>
+* **Slack-Based Diagnostics Microservice**: Developed a **microservice** in Golang integrated with Slack for Apple’s
+cloud infrastructure, enabling users to trigger API calls through button actions. This streamlined access to diagnostic
+data, reducing manual effort and response times, and improving overall operational efficiency by 33%. <br>
+* **Telemetry Dashboard for Apple Cloud Infrastructure**: Built a **full-stack web application** using **React**,
+**Node.js** and **Mongo** for Apple’s Cloud SRE teams, providing real-time insights on change requests (CRs), high-priority
+incidents, and traffic analysis. Integrated alert management, improving operational efficiency by 40%. <br>
+* **Orchestrated CLI Tool for Automated Change Requests and Tickets**: Built an CLI tool for Apple’s Backbone,
+automating CR and ticket workflows, reducing processing time from 8-10 mins to 2 mins per CR.<br>
+* **Scalable Kubernetes Deployment and Load Optimization**: Architected a Kubernetes deployment with modular
+pods and containers, using GSLB for load distribution, which improved performance for over 8000 Apple Cloud users.<br>
+* **CI/CD Automation for Docker and Kubernetes Deployment**: Engineered **CI/CD** pipelines using jenkins for
+automated Docker image creation, Artifactory publication, and Kubernetes deployment, reducing deployment time by
+30% and minimizing manual errors. <br>
+* **Expertise in Apple Backbone L1 Architecture and Routing**: Resolved routing issues and managed various circuit
+types within Apple’s Backbone L1 architecture, configuring Juniper MX2020 routers and **routing policies**, and utilizing
+expertise in Arista and Cisco hardware to enhance network reliability <br>
+* **Memory Leak Resolution and Hardware Performance Enhancement**: Resolved memory leaks on Juniper
+devices through strategic reloads, addressed log filtering issues, and managed air filter swaps and FPC failures, resulting
+in a 25% improvement in hardware performance.<br>
 * **Team Leadership and Training**: Led the training of a new team in Cork, Ireland, as the Subject Matter Expert (SME) on Juniper devices. Delivered comprehensive training on JTAC procedures, Juniper hardware architecture, CLI usage, and traffic draining processes.
  <br>
 
