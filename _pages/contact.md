@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Email: na3533@nyu.edu <br>
-Phone Number: +1-2019041442 <br>
+Email: ac11950@nyu.edu <br>
+Phone Number: +1-(929)-735-9133 <br>
 
