@@ -7,20 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an MSCS graduate student at New York University, Courant Institute of Mathematical Sciences. I'm dedicated to staying at the forefront of technology trends and continuously expanding my knowledge in computer science, software development, and machine learning. My goal is to drive innovation and create impact on a bigger scale.
+A passionate Software Engineer with three years of experience at Apple, specializing in designing scalable web solutions and optimizing cloud infrastructure. My expertise spans full-stack web development, cloud automation, and deployments. At Apple, I developed key tools that significantly streamlined deployments and boosted system performance.
 
-My fascination for computer science opriginates from my passion to solve problems and puzzles. Something about our problem solving ability as humans amazes me. For the same reason, I’ve continuously explored the field of machine learning in the hope to see if they could match human intelligence. In particular, the evolution of human communication has left me enthralled and I’m currently exploring natural language processing technologies to help computers mimic this. 
+Currently, I’m pursuing a Master’s in Computer Science at New York University’s Courant Institute, where I am deepening my knowledge in Distributed Systems, Cloud Compute, Parallel Compute, and GPUs. My academic journey is driven by the desire to solve complex technical challenges and merge my practical experience with cutting-edge research to create impactful solutions. 
 
-As a former software development engineer with a strong foundation in computer science and a passion for technology, I bring 2 years of experience in software development, algorithms, and machine learning My academic background, coupled with practical industry experience, has equipped me with the skills to design and implement complex software solutions, and solve challenging technical problems. 
+I am also passionate about exploring how technology can drive real-world change. My interests lie at the intersection of software engineering and large-scale systems, where I aim to contribute to building solutions that make a meaningful impact on industries and society. Whether it's solving infrastructure challenges or creating innovative cloud solutions, I thrive on delivering practical, high-impact results.
 
+Always eager to connect with others who share similar passions or explore new opportunities. If you're interested in collaborating or discussing new ideas, feel free to reach out!
 
 
 # Research Interest
+* Distributed Systems
+* Cloud Infra Optimization
 * Machine Learning
-* Deep Learning
 * Computer Vision
-* Natural Language Processing
-* Artificial Intelligence
+* Scalable Web Architectures
 
 
 
@@ -29,14 +30,14 @@ As a former software development engineer with a strong foundation in computer s
 <img width="135" height="200" src="https://nishtha777.github.io/images/NYUCourant.jpg"/> <br>
 <br>
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
-Graduate Student in Fall 2023<br>
+Fall 2024 -- May 2026<br>
 Master of Science in Computer Science<br>
 
 <img width="150" height="75" src="https://nishtha777.github.io/images/BITSPilani.jpg"/> <br>
 <br>
-<b>Birla Institute of Technology & Science, Goa Campus (Goa, India)</b> <br>
+<b>PES University (Bengaluru, India)</b> <br>
 Aug 2017 -- Jul 2021<br>
-Bachelor of Engineering in Electronics and Instrumentation<br>
-GPA: 7.61/10.00<br>
+Bachelors of Technology in Computer Science<br>
+
 
 
