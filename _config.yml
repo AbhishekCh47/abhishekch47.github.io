@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nishtha Agrawal"
+title                    : "Abhishek Chigurupati"
 title_separator          : "-"
-name                     : &name "Nishtha Agrawal"
+name                     : &name "Abhishek Chigurupati"
 description              : 
-url                      : https://nishtha777.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abhishekch47.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nishtha777/nishtha777.github.io"
+repository               : "abhishekch47/abhishekch47.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nishtha Agrawal"
+  name             : "Abhishek Chigurupati"
   avatar           : "bio-photo-0.jpg"
   bio              : "Build intelligent machine for human well-being."
   location         : "New York City, USA"
   employer         :
   googlescholar    :
-  email            : "na3533@nyu.edu"
+  email            : "ac11950@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,12 +94,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nishtha777"
+  github           : "abhishekch47"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : nishtha-agrawal-4629a7193/
+  linkedin         : https://www.linkedin.com/in/abhishek-ch-7805b4158/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
