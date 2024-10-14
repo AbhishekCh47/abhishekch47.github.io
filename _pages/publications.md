@@ -4,59 +4,38 @@ title: "Work Experience"
 permalink: /work-experience/
 author_profile: true
 ---
-<br>
-<img width="85" height="75" src="https://nishtha777.github.io/images/UMass.jpg"/> <br>
-<br>
-<b>Research Intern . Remote</b> <br>
-HCI-VIS Lab,  The University of Massachusetts Amherst <br>
-Apr 2023 -- Present <br>
-Advisor: [Prof. Narges Mahyar](https://groups.cs.umass.edu/nmahyar/), [Dr. Ali Sarvghad](https://groups.cs.umass.edu/asarv/) <br>
-
-* Conducted extensive research on Natural Language Processing (NLP) techniques and methodologies to gain a deep understanding of the field and its applications in developing conversational agent <br>
-
 
 <img width="175" height="75" src="https://nishtha777.github.io/images/Flipkart-Logo.jpg"/> <br>
 <br>
-<b>Software Development Engineer , Recommendations Team. Bengaluru </b> <br>
-Flipkart <br>
-Jun 2021 -- Mar 2023 <br>
+<b>Software Engineer (Hyderabad, India) </b> <br>
+Apple Inc <br>
+Jul 2021 -- Aug 2024 <br>
 
-* Acquired and applied tech stack including Aerospike, Elastic Search, and Spring Boot to effectively contribute to the development of functionality for recommendation systems <br>
-* Performed migration and rebase of Java 8 code to Java 17 code <br>
-* Personalised the shopping experience of customers by implementing Machine Learning algorithms like Logistic Regression, XGBoost, and Random Forest <br>
-* Executed over 10 deployments utilizing Kubernetes, building Docker images in CI/CD pipelines, and implementing Helm Chart <br>
-* Technologies used: Software Development, SQL, C/C++, Git, Spring Boot, RESTful API, MongoDB, Kubernetes, Docker, Mockito, Grafana, Confluence, Jira, Lens, Object-Oriented Programming (OOP), Operating Systems, Distributed Systems, Aerospike, Elasticsearch, Machine Learning, Java, Linux<br>
+* **Full-Stack Platform Development**: Developed a web platform with a sunburst alert view for control plane monitoring using React, Django, and Redis, integrating Grafana dashboards to enhance real-time metrics monitoring and boost infrastructure efficiency by 75%. <br>
+* **Slack-Based Diagnostics Microservice**: Created a Golang microservice integrated with Slack, enabling users to trigger API calls via button actions, streamlining access to diagnostic data and improving operational efficiency by 33%. <br>
+* **Telemetry Dashboard Development**: Built a full-stack web application using React, Node.js, and MongoDB to provide real-time insights for change requests (CRs) and high-priority incidents, increasing operational efficiency by 40%. <br>
+* **CLI Tool Automation**: Developed a CLI tool that automated change request (CR) and ticket workflows for Apple’s Backbone, reducing processing time from 8-10 minutes to 2 minutes per CR. <br>
+* **Kubernetes Deploymen**t: Architected a scalable Kubernetes deployment using modular pods and containers, with Global Server Load Balancing (GSLB) for optimized load distribution, improving performance for over 8,000 Apple Cloud users.<br>
+* **CI/CD Pipeline Engineering**: Engineered CI/CD pipelines using Jenkins for automated Docker image creation, Artifactory publication, and Kubernetes deployment, reducing deployment time by 30% and minimizing manual errors. <br>
+* **Backbone L1 Architecture Expertise**: Managed Apple’s Backbone L1 architecture, resolving routing protocol issues and configuring Juniper MX2020 routers, with expertise in BGP, IS-IS, and routing policies, along with hands-on experience with Arista and Cisco hardware. <br>
+* **Hardware Performance Enhancement**: Resolved memory leaks and optimized Juniper devices through strategic reloads and log filtering improvements, increasing hardware performance by 25%. Additionally, managed air filter swaps and resolved FPC failures.<br>
+* **Team Leadership and Training**: Led the training of a new team in Cork, Ireland, as the Subject Matter Expert (SME) on Juniper devices. Delivered comprehensive training on JTAC procedures, Juniper hardware architecture, CLI usage, and traffic draining processes.
+ <br>
+
 
 
 <img width="85" height="75" src="https://nishtha777.github.io/images/Shop1O1.jpg"/> <br>
 <br>
-<b>Software Developer Intern . Remote </b> <br>
-Shop 101 <br>
-Aug 2020 -- Dec 2020 <br>
+<b>Software Developer Intern (Bengaluru, India) </b> <br>
+Aruba Networks, HPE <br>
+Jan 2021 -- May 2021 <br>
 
-* Developed a user-friendly dashboard enabling users to visualize their payment history, while implementing secure login authentication through Redux state management <br>
-* Implemented form validations and incorporated APIs into Shop 101’s official website <br>
-* Developed a payment history dashboard, along with the login authentication setup (by storing states through redux) <br>
-* Technologies used: Software Development, HTML, CSS, JavaScript, React.js, Redux.js, REST API, Bootstrap<br>
+* **Static PortFilter Implementation**: Seamlessly integrated the Static PortFilter feature within the Aruba OVA (Open Virtual Appliance) environment, enabling precise control over both inbound and outbound traffic. <br>
+* **Network Security Enhancement**: Significantly strengthened network security by enforcing traffic management policies, contributing to a more robust and controlled networking infrastructure. <br>
+* **Technologies Used**: Utilized C, Python, Docker, and Gerrit to implement and optimize the feature, ensuring seamless functionality in the virtual appliance environment. <br>
 
-<img width="75" height="75" src="https://nishtha777.github.io/images/tnstc.jpg"/> <br>
-<br>
-<b>Research Intern . Remote </b> <br>
-TamilNadu Science and Technology Centre <br>
-Aug 2020 -- Dec 2020 <br>
-* Developed an interactive website by employing Flutter that uses Dart, which is a compiled programming
-language that helps in avoiding performance issues <br>
-* Employed Natural Language Processing to impart Artificial Intelligence to device-antagonistic DialogFlow
-chatbot to support over 14 languages<br>
-* Technologies used: Natural Language Processing, DialogFlow, Dart<br>
 
-<img width="85" height="75" src="https://nishtha777.github.io/images/venuemonk.jpg"/> <br>
-<br>
-<b>Reactjs Developer Intern . Remote </b> <br>
-VenueMonk <br>
-Jun 2020 -- Jul 2020 <br>
-* Coordinated in building React components for the official website of LimeChat, India’s pioneering level-3 AI chatbot company, leading to seamless automation of the content system <br>
-* Utilized Bootstrap to enhance browser compatibility and enhance mobile responsiveness for the official company website <br>
-* Technologies used: React.js, Bootstrap<br>
+
+
 
 
