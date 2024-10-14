@@ -33,7 +33,7 @@ Always eager to connect with others who share similar passions or explore new op
 Fall 2024 -- May 2026<br>
 Master of Science in Computer Science<br>
 
-<img width="150" height="75" src="https://abhishekch47.github.io/images/pes.png"/> <br>
+<img width="150" height="75" src="https://abhishekch47.github.io/images/pes.jpg"/> <br>
 <br>
 <b>PES University (Bengaluru, India)</b> <br>
 Aug 2017 -- Jul 2021<br>
