@@ -31,13 +31,31 @@ Always eager to connect with others who share similar passions or explore new op
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
 Aug 2024 -- May 2026<br>
 Master of Science in Computer Science<br>
-Relevant Coursework : Advanced DS and Algorithms, Cloud Computing, Programming Languages, Operating Systems, Distributed Systems <br>
+**Relevant Coursework**:  
+&nbsp;&nbsp;&nbsp;&nbsp;* Advanced DS and Algorithms  
+&nbsp;&nbsp;&nbsp;&nbsp;* Cloud Computing  
+&nbsp;&nbsp;&nbsp;&nbsp;* Programming Languages  
+&nbsp;&nbsp;&nbsp;&nbsp;* Operating Systems  
+&nbsp;&nbsp;&nbsp;&nbsp;* Distributed Systems  
+
 
 <img width="150" height="75" src="https://abhishekch47.github.io/images/pes.jpg"/> <br>
 <br>
 <b>PES University (Bengaluru, India)</b> <br>
 Aug 2017 -- Jul 2021<br>
 Bachelors of Technology in Computer Science<br>
-Relevant Coursework : Machine Learning, Artificial Intelligence, Big Data, Compiler Design, Data Structures, Design and Analysis of Algorithms, Operating Systems, Database Management Systems, Computer Networks, Computer System Architecture, Computer Organization<br>
+**Relevant Coursework**:  
+&nbsp;&nbsp;&nbsp;&nbsp;* Machine Learning  
+&nbsp;&nbsp;&nbsp;&nbsp;* Artificial Intelligence  
+&nbsp;&nbsp;&nbsp;&nbsp;* Big Data  
+&nbsp;&nbsp;&nbsp;&nbsp;* Compiler Design  
+&nbsp;&nbsp;&nbsp;&nbsp;* Data Structures  
+&nbsp;&nbsp;&nbsp;&nbsp;* Design and Analysis of Algorithms  
+&nbsp;&nbsp;&nbsp;&nbsp;* Operating Systems  
+&nbsp;&nbsp;&nbsp;&nbsp;* Database Management Systems  
+&nbsp;&nbsp;&nbsp;&nbsp;* Computer Networks  
+&nbsp;&nbsp;&nbsp;&nbsp;* Computer System Architecture  
+&nbsp;&nbsp;&nbsp;&nbsp;* Computer Organization  
+
 
 
