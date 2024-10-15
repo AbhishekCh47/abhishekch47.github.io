@@ -7,28 +7,19 @@ author_profile: true
 
 <img width="100" height="75" src="https://nishtha777.github.io/images/dopy.jpg"/> <br>
 <br>
-<b>The Department of Photography</b> <br>
+<b> CSR Club PES University </b> <br>
 Coordinator <br>
-* The Department of Photography is among the largest student-body at BITS Pilani Goa Campus and is 
-responsible for digitally archiving all the official and student activities on campus<br>
-* Managed a team of 159 members capturing tech events and student festivals throughout the year<br>
-* Raised more than INR 200,000 through various sources to purchase inventory<br>
+* Actively contributed to the CSR club at university, participating in various socially responsible initiatives.<br>
+* Organized and participated in blood donation camps, promoting health awareness and encouraging student participation.<br>
+* Led Bangalore city cleaning activities, fostering environmental responsibility and community engagement.<br>
+* Visited orphanage homes, conducting interactive sessions and engaging activities to support and mentor children.<br>
 
 <img width="200" height="75" src="https://nishtha777.github.io/images/nirmaan_logo.jpg"/> <br>
 <br>
-<b>Nirmaan Organization - Goa Chapter</b> <br>
-Core Member <br>
-* Conducted free educational lectures and mentored children for the underprivileged sections of local 
-communities to prepare them for the entrance exam of JNV, a public school that offers free education<br>
-* Organized free medical checkups, informative sessions on menstrual health and hygiene and 
-conducted free sanitary pad distribution<br>
+<b> Samarpana Run Club PESU </b> <br>
+Organizer <br>
+* Coordinator of the Samarpana Run Club, organizing student-led events to honor martyrs of the Indian Armed Forces and support their families.<br>
+* Led fundraising initiatives through the annual Samarpana Run, raising awareness about the sacrifices of soldiers while fostering a sense of unity and patriotism.<br>
+* Engaged with the community by coordinating runs with jawans (soldiers), encouraging participation from students and citizens of Bangalore.<br>
 
-<br>
 
-<img width="250" height="75" src="https://nishtha777.github.io/images/ieee.jpg"/> <br>
-<br>
-<b>IEEE BITS GOA - Student Chapter</b> <br>
-Core Member <br>
-* Hosted Lumini, the annual tech symposium, which provided a platform for students to interact with 
-industry professionals and gain knowledge from respected researchers in various fields <br>
-* Conducted workshops, lectures and enhanced professional awareness within the technical community<br>
