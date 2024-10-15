@@ -18,9 +18,9 @@ Always eager to connect with others who share similar passions or explore new op
 
 # Research Interest
 * Distributed Systems
+* Cloud Computing
 * Machine Learning
 * Computer Vision
-* Cloud Infra Optimization
 * Scalable Web Architectures
   
 
@@ -30,17 +30,15 @@ Always eager to connect with others who share similar passions or explore new op
 <br>
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
 Aug 2024 -- May 2026<br>
-**Master of Science in Computer Science**<br>
-**Relevant Coursework**: 
-<div style="padding-left: 20px;">
-<ul>
-  <li>Advanced DS and Algorithms</li>
-  <li>Cloud Computing</li>
-  <li>Programming Languages</li>
-  <li>Operating Systems</li>
-  <li>Distributed Systems</li>
-</ul>
-</div>
+**Master of Science in Computer Science**  
+**Relevant Coursework**:  
+<span style="display: block; padding-left: 20px;">Advanced DS and Algorithms,</span>
+<span style="display: block; padding-left: 20px;">Cloud Computing,</span>
+<span style="display: block; padding-left: 20px;">Programming Languages,</span>
+<span style="display: block; padding-left: 20px;">Operating Systems,</span>
+<span style="display: block; padding-left: 20px;">Distributed Systems</span>
+
+
 
 
 <img width="150" height="75" src="https://abhishekch47.github.io/images/pes.jpg"/> <br>
@@ -49,21 +47,18 @@ Aug 2024 -- May 2026<br>
 Aug 2017 -- Jul 2021<br>
 **Bachelors of Technology in Computer Science**<br>
 **Relevant Coursework**:  
-<div style="padding-left: 20px;">
-<ul>
-  <li>Machine Learning</li>
-  <li>Artificial Intelligence</li>
-  <li>Big Data</li>
-  <li>Compiler Design</li>
-  <li>Data Structures</li>
-  <li>Design and Analysis of Algorithms</li>
-  <li>Operating Systems</li>
-  <li>Database Management Systems</li>
-  <li>Computer Networks</li>
-  <li>Computer System Architecture</li>
-  <li>Computer Organization</li>
-</ul>
-</div>  
+<span style="display: block; padding-left: 20px;">Machine Learning,</span>
+<span style="display: block; padding-left: 20px;">Artificial Intelligence,</span>
+<span style="display: block; padding-left: 20px;">Big Data,</span>
+<span style="display: block; padding-left: 20px;">Compiler Design,</span>
+<span style="display: block; padding-left: 20px;">Data Structures,</span>
+<span style="display: block; padding-left: 20px;">Design and Analysis of Algorithms,</span>
+<span style="display: block; padding-left: 20px;">Operating Systems,</span>
+<span style="display: block; padding-left: 20px;">Database Management Systems,</span>
+<span style="display: block; padding-left: 20px;">Computer Networks,</span>
+<span style="display: block; padding-left: 20px;">Computer System Architecture,</span>
+<span style="display: block; padding-left: 20px;">Computer Organization</span>
+
 
 
 
