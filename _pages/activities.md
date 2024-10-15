@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-<img width="100" height="75" src="https://nishtha777.github.io/images/dopy.jpg"/> <br>
+<img width="100" height="75" src="https://abhishekch47.github.io/images/csr.jpg"/> <br>
 <br>
 <b> CSR Club PES University </b> <br>
 Coordinator <br>
@@ -14,7 +14,7 @@ Coordinator <br>
 * Led Bangalore city cleaning activities, fostering environmental responsibility and community engagement.<br>
 * Visited orphanage homes, conducting interactive sessions and engaging activities to support and mentor children.<br>
 
-<img width="200" height="75" src="https://nishtha777.github.io/images/nirmaan_logo.jpg"/> <br>
+<img width="200" height="75" src="https://abhishekch47.github.io/images/samarpana.jpg"/> <br>
 <br>
 <b> Samarpana Run Club PESU </b> <br>
 Organizer <br>
