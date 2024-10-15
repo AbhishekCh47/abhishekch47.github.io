@@ -25,37 +25,45 @@ Always eager to connect with others who share similar passions or explore new op
   
 
 # Education
-<br>
+
 <img width="135" height="200" src="https://abhishekch47.github.io/images/NYUCourant.jpg"/> <br>
 <br>
 <b>New York University, Courant Institute of Mathematical Sciences (New York City, USA)</b> <br>
 Aug 2024 -- May 2026<br>
-Master of Science in Computer Science<br>
-**Relevant Coursework**:  
-&nbsp;&nbsp;&nbsp;&nbsp;* Advanced DS and Algorithms  
-&nbsp;&nbsp;&nbsp;&nbsp;* Cloud Computing  
-&nbsp;&nbsp;&nbsp;&nbsp;* Programming Languages  
-&nbsp;&nbsp;&nbsp;&nbsp;* Operating Systems  
-&nbsp;&nbsp;&nbsp;&nbsp;* Distributed Systems  
+**Master of Science in Computer Science**<br>
+**Relevant Coursework**: 
+<div style="padding-left: 20px;">
+<ul>
+  <li>Advanced DS and Algorithms</li>
+  <li>Cloud Computing</li>
+  <li>Programming Languages</li>
+  <li>Operating Systems</li>
+  <li>Distributed Systems</li>
+</ul>
+</div>
 
 
 <img width="150" height="75" src="https://abhishekch47.github.io/images/pes.jpg"/> <br>
 <br>
 <b>PES University (Bengaluru, India)</b> <br>
 Aug 2017 -- Jul 2021<br>
-Bachelors of Technology in Computer Science<br>
+**Bachelors of Technology in Computer Science**<br>
 **Relevant Coursework**:  
-&nbsp;&nbsp;&nbsp;&nbsp;* Machine Learning  
-&nbsp;&nbsp;&nbsp;&nbsp;* Artificial Intelligence  
-&nbsp;&nbsp;&nbsp;&nbsp;* Big Data  
-&nbsp;&nbsp;&nbsp;&nbsp;* Compiler Design  
-&nbsp;&nbsp;&nbsp;&nbsp;* Data Structures  
-&nbsp;&nbsp;&nbsp;&nbsp;* Design and Analysis of Algorithms  
-&nbsp;&nbsp;&nbsp;&nbsp;* Operating Systems  
-&nbsp;&nbsp;&nbsp;&nbsp;* Database Management Systems  
-&nbsp;&nbsp;&nbsp;&nbsp;* Computer Networks  
-&nbsp;&nbsp;&nbsp;&nbsp;* Computer System Architecture  
-&nbsp;&nbsp;&nbsp;&nbsp;* Computer Organization  
+<div style="padding-left: 20px;">
+<ul>
+  <li>Machine Learning</li>
+  <li>Artificial Intelligence</li>
+  <li>Big Data</li>
+  <li>Compiler Design</li>
+  <li>Data Structures</li>
+  <li>Design and Analysis of Algorithms</li>
+  <li>Operating Systems</li>
+  <li>Database Management Systems</li>
+  <li>Computer Networks</li>
+  <li>Computer System Architecture</li>
+  <li>Computer Organization</li>
+</ul>
+</div>  
 
 
 
