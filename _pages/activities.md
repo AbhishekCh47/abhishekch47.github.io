@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-<img width="100" height="75" src="https://abhishekch47.github.io/images/csr.jpg"/> <br>
+<img width="100" height="75" src="https://abhishekch47.github.io/images/csr.png"/> <br>
 <br>
 <b> CSR Club PES University </b> <br>
 Coordinator <br>
