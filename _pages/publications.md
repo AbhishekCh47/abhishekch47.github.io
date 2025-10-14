@@ -5,6 +5,24 @@ permalink: /work-experience/
 author_profile: true
 ---
 
+<img width="150" height="75" src="https://abhishekch47.github.io/images/teradata.jpg"/> <br>
+<br>
+<b>Software Engineer Intern (San Diego, CA / Remote) </b> <br>
+Teradata Corporation <br>
+May 2024 -- Present <br>
+
+* **Compiler-Driven Performance Optimization**: Working on Teradata’s **query compiler and execution engine**, enhancing performance through **LLVM-based code generation** in C++. Focused on optimizing **floating-point operations** and **vector computation pipelines** to improve analytical query throughput on large-scale data systems. <br>
+* **LLVM IR Generation and Optimization**: Implemented new modules in Teradata’s internal **CGI (Code Generation Infrastructure)** to dynamically generate **LLVM Intermediate Representation (IR)** for math and vector functions. Introduced custom passes for instruction selection, constant folding, and loop unrolling, enabling fine-grained compiler-level optimizations at runtime. <br>
+* **Floating-Point Precision and Compute Efficiency**: Developed multi-precision compute paths (**FP16**, **FP32**, **FP64**) and benchmarked their trade-offs in accuracy versus performance. Leveraged **fast-math** optimizations and fused-multiply-add operations where safe, achieving up to **1.4× speedup** on floating-point intensive workloads. <br>
+* **Vector Search Acceleration (HNSW)**: Integrated **Hierarchical Navigable Small World (HNSW)** indexing within the compiler pipeline to accelerate vector similarity search for analytic workloads. Tuned hyperparameters (**M**, **efConstruction**, **efSearch**) and optimized search traversal logic to minimize memory overhead and improve retrieval latency. <br>
+* **Runtime Specialization and Profiling**: Used **LLVM’s MCJIT framework** to JIT-compile specialized function variants at runtime, reducing branching and improving instruction cache efficiency. Built profiling hooks to collect runtime metrics such as IPC, instruction count, and cache utilization—feeding insights back into compiler heuristics. <br>
+* **Performance Analysis and Validation**: Employed **Clang sanitizers**, **perf**, and **Linux profiling tools** to evaluate instruction throughput and memory footprint across different precision modes. Validated optimization impact through controlled benchmarking using synthetic vector datasets and production query traces. <br>
+* **Key Impact**: Strengthened Teradata’s compiler infrastructure for next-generation analytic workloads—improving both **numerical performance** and **codegen reliability**. This work laid the foundation for integrating **AI-optimized compute paths** into the company’s data engine. <br>
+* **Technologies Used**: C++, LLVM, MCJIT, Clang, HNSW, Python, perf, Git, Linux <br>
+
+<br>
+
+
 <img width="175" height="75" src="https://abhishekch47.github.io/images/apple.jpg"/> <br>
 <br>
 <b>Software Engineer (Hyderabad, India) </b> <br>
