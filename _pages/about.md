@@ -31,7 +31,7 @@ Outside of work, I enjoy diving into research-driven projects—from **GPU-accel
 
 💬 **Let’s connect!**  
 I’m always open to collaborating on impactful engineering problems or discussing ideas in systems, infrastructure, and AI performance.  
-You can reach me at **[ac11950@nyu.edu](mailto:ac11950@nyu.edu)** or via [LinkedIn](https://www.linkedin.com/in/abhishek-chigurupati/).
+You can reach me at **[ac11950@nyu.edu](mailto:ac11950@nyu.edu)** or via [LinkedIn]([(https://www.linkedin.com/in/abhishek-chigurupati-7805b4158/)]).
 
   
 
