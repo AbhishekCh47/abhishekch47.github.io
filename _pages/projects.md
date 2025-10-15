@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<img width="150" height="75" src="https://abhishekch47.github.io/images/nyu.png"/> <br>
+<img width="150" height="75" src="https://abhishekch47.github.io/images/nyu.jpg"/> <br>
 <br>
 <b>Parallel Embedding Optimization with CUDA</b> <br>
 Feb 2025 <br>
@@ -17,7 +17,7 @@ Feb 2025 <br>
 * Technologies Used: **CUDA, C++, PyTorch, Nsight Compute** <br>
 <br>
 
-<img width="150" height="75" src="https://abhishekch47.github.io/images/nyu.png"/> <br>
+<img width="150" height="75" src="https://abhishekch47.github.io/images/nyu.jpg"/> <br>
 <br>
 <b>Multicore Programming: OpenMP vs. Rust (Rayon)</b> <br>
 Apr 2025 <br>
@@ -29,7 +29,7 @@ Apr 2025 <br>
 * Technologies Used: **Rust (Rayon), C, OpenMP, Linux HPC Cluster** <br>
 <br>
 
-<img width="150" height="75" src="https://abhishekch47.github.io/images/nyu.png"/> <br>
+<img width="150" height="75" src="https://abhishekch47.github.io/images/nyu.jpg"/> <br>
 <br>
 <b>Operating Systems Scheduler Simulation</b> <br>
 Dec 2024 <br>
