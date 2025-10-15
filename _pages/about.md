@@ -7,21 +7,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A passionate Software Engineer with three years of experience at Apple, specializing in designing scalable web solutions and optimizing cloud infrastructure. My expertise spans full-stack web, software development and deployments. At Apple, I developed key tools that significantly streamlined deployments and boosted system performance.
 
-Currently, I’m pursuing a Master’s in Computer Science at New York University’s Courant Institute, where I am deepening my knowledge in Distributed Systems, Cloud Computing, Machine Learning and GPUs. My academic journey is driven by the desire to solve complex technical challenges and merge my practical experience with cutting-edge research to create impactful solutions. 
+A passionate Software Engineer currently pursuing a **Master’s in Computer Science** at **New York University’s Courant Institute**, with prior experience as a **Software Engineer at Apple** and an ongoing internship at **Teradata**. My work bridges **systems engineering, compilers, and AI infrastructure**, focusing on building high-performance, scalable systems that solve real-world challenges.
 
-I am also passionate about exploring how technology can drive real-world change. My interests lie at the intersection of software engineering and large-scale systems, where I aim to contribute to building solutions that make a meaningful impact on industries and society. Whether it's solving infrastructure challenges or creating innovative cloud solutions, I thrive on delivering practical, high-impact results.
+At **Teradata**, I’m part of the **Query Optimizer Team**, where I design and implement **LLVM-based optimizations** and **vector search engines** for large-scale AI workloads. My recent work involves developing a **C++ HNSW index** and integrating it into the query engine, achieving 3× throughput improvements and sub-second query times on 100M+ vectors. These efforts aim to bring intelligent, high-performance search capabilities to enterprise-scale data systems.
 
-Always eager to connect with others who share similar passions or explore new opportunities. If you're interested in collaborating or discussing new ideas, please feel free to reach out!
+Previously at **Apple**, I worked in the **Cloud Infrastructure Platform organization**, developing full-stack and cloud-native systems supporting Apple’s global production network. I built **observability platforms**, **Golang microservices**, and **Kubernetes orchestration pipelines** across AWS and GCP to improve operational visibility, deployment reliability, and system scalability. My experience at Apple shaped my **SRE and distributed systems mindset**—designing software that’s reliable, performant, and maintainable at scale.
 
+I’m deeply interested in the **intersection of compilers, distributed systems, and AI compute**, exploring how low-level optimizations can power next-generation infrastructure for machine learning and data analytics. I thrive on solving performance bottlenecks, architecting systems that scale, and contributing to technology that drives measurable impact.
 
-# Research Interest
-* Distributed Systems
-* Cloud Computing
-* Machine Learning
-* Computer Vision
-* Scalable Web Architectures
+Outside of work, I enjoy diving into research-driven projects—from **GPU-accelerated embedding search** to **multicore performance analysis**—that merge theory with hands-on engineering. My goal is to keep learning, experimenting, and building technology that makes large-scale computation smarter, faster, and more efficient.
+
+---
+
+### **Areas of Interest**
+* Distributed Systems & Cloud Infrastructure  
+* Compiler Technologies (LLVM, Codegen)  
+* AI / ML Systems & Vector Search  
+* GPU & Multicore Performance Engineering  
+* Scalable Web & Observability Platforms  
+
+---
+
+💬 **Let’s connect!**  
+I’m always open to collaborating on impactful engineering problems or discussing ideas in systems, infrastructure, and AI performance.  
+You can reach me at **[ac11950@nyu.edu](mailto:ac11950@nyu.edu)** or via [LinkedIn](https://www.linkedin.com/in/abhishek-chigurupati/).
+
   
 
 # Education
