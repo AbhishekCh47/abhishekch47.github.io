@@ -43,13 +43,14 @@ You can reach me at **[ac11950@nyu.edu](mailto:ac11950@nyu.edu)** or via [Linked
 Sept 2024 -- May 2026<br>
 **Master of Science in Computer Science**  
 **Relevant Coursework**:  
+<span style="display: block; padding-left: 20px;">Graphical Processing Unit Computing,</span>
 <span style="display: block; padding-left: 20px;">Advanced DS and Algorithms,</span>
-<span style="display: block; padding-left: 20px;">Cloud Computing,</span>
-<span style="display: block; padding-left: 20px;">Programming Languages,</span>
+<span style="display: block; padding-left: 20px;">Cloud and Machine learning,</span>
+<span style="display: block; padding-left: 20px;">Computer Vision</span>
 <span style="display: block; padding-left: 20px;">Operating Systems,</span>
+<span style="display: block; padding-left: 20px;">Multicore Systems and Architecture,</span>
 <span style="display: block; padding-left: 20px;">Distributed Systems</span>
-
-
+<span style="display: block; padding-left: 20px;">Programming Languages,</span>
 
 
 <img width="150" height="75" src="https://abhishekch47.github.io/images/pes.jpg"/> <br>
